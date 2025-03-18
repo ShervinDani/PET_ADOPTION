@@ -51,8 +51,3 @@ We welcome contributions to improve PawFinds! To contribute, follow these steps:
 - Make your changes and commit them: git commit -m 'Add new feature'
 - Push to the branch: git push origin feature-new-feature
 - Create a pull request explaining your changes.
-
-## Contact Information
-For questions, please contact 
-- [GitHub](https://github.com/kashiekzmi)
-- [LinkedIn](https://www.linkedin.com/in/kashiekzmi)
